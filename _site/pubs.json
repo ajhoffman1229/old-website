@@ -1,0 +1,162 @@
+{
+  "papers":{
+    "external-mfi-dpe": {
+      "id": 13,
+      "title": "Brønsted Acid Strength Does Not Change for Bulk and External Sites of MFI",
+      "authors": "Haliey Balcom^, Alexander J. Hoffman^, Huston Locht, David Hibbitts*",
+      "publication date": "2022",
+      "issue": null,
+      "volume": null,
+      "fpage": null,
+      "lpage": null,
+      "journal": "Submitted",
+      "doi": ""
+    },
+    "rh-sac-char": {
+      "id": 12,
+      "title": "Experimental and theoretical characterization of Rh single-atoms supported on γ-Al2O3 with varying hydroxyl content during NO reduction by CO",
+      "authors": "Alexander J. Hoffman^, Chithra Asokan^, Nicholas Gadinas, Emily Schroeder, Gregory Zakem, Steven V. Nystrom, Andrew “Bean” Getsoian, Phillip Christopher*, David Hibbitts*",
+      "publication date": "2022-09",
+      "issue": null,
+      "volume": null,
+      "fpage": null,
+      "lpage": null,
+      "journal": "ACS Catal.",
+      "doi": ""
+    },
+    "mel-sdas": {
+      "id": 11,
+      "title": "Altering the Arrangement of Framework Al Atoms in MEL Zeolites Using Mixtures of Tetrabutylammonium and Sodium Structure-Directing Agents",
+      "authors": "Elizabeth E. Bickel, Alexander J. Hoffman, Songhyun Lee, Hannah E. Snider, Claire T. Nimlos, Natalie K. Zamiechowski, David D. Hibbitts, and Rajamani Gounder*",
+      "publication date": "2022-07-19",
+      "issue": 15,
+      "volume": 34,
+      "fpage": 6835,
+      "lpage": 6852,
+      "journal": "ACS Catal.",
+      "doi": "10.1021/acs.chemmater.2c01083"
+    },
+    "cha-pair-mkm": {
+      "id": 10,
+      "title": "Quantifying effects of active site proximity on rates of methanol dehydration to dimethyl ether over CHA zeolites through microkinetic modeling",
+      "authors": "Grant Marsden, Pavlo Kostetskyy, Ryoh-suke Sekiya, Alexander Hoffman, Songhyun Lee, Rajamani Gounder, David Hibbitts, and Linda Broadbelt*",
+      "publication date": "2021-12-13",
+      "issue":12,
+      "volume": 2,
+      "fpage": 163,
+      "lpage": 175,
+      "journal": "ACS Mater. Au",
+      "doi": "10.1021/acsmaterialsau.1c00057"
+    },
+    "rh-part-char": {
+      "id": 9,
+      "title": "Quantifying effects of active site proximity on rates of methanol dehydration to dimethyl ether over CHA zeolites through microkinetic modeling",
+      "authors": "Alexander J. Hoffman, Chithra Asokan, Nicholas Gadinas, Pavlo Kravchenko, Andrew Getsoian, Phillip Christopher*, David Hibbitts*",
+      "publication date": "2021-09-02",
+      "issue": 36,
+      "volume": 125,
+      "fpage": 19733,
+      "lpage": 19755,
+      "journal": "J. Phys. Chem. C",
+      "doi": "10.1021/acs.jpcc.1c05160"
+    },
+    "diene-formation": {
+      "id": 8,
+      "title": "Comparing alkene-mediated and formaldehyde-mediated diene formation routes in methanol-to-olefins catalysis in MFI and CHA",
+      "authors": "Lauren Kilburn^, Mykela DeLuca^, Alexander J. Hoffman, Shivang Patel, David Hibbitts*",
+      "publication date": "2021-08",
+      "issue": null,
+      "volume": 400,
+      "fpage": 124,
+      "lpage": 139,
+      "journal": "J. Catal.",
+      "doi": "10.1016/j.jcat.2021.05.010"
+    },
+    "mfi-sda-co": {
+      "id": 7,
+      "title": "Comparing alkene-mediated and formaldehyde-mediated diene formation routes in methanol-to-olefins catalysis in MFI and CHA",
+      "authors": "Claire T. Nimlos^, Alexander J. Hoffman^, Young Gul Hur, Byung Jin Lee, John R. Di Iorio, David Hibbitts*, and Rajamani Gounder*",
+      "publication date": "2020-10-20",
+      "issue": 21,
+      "volume": 32,
+      "fpage": 9277,
+      "lpage": 9298,
+      "journal": "Chem. Mater.",
+      "doi": "10.1021/acs.chemmater.0c03154"
+    },
+    "cha-pairs-alkanol": {
+      "id": 6,
+      "title": "Rigid Arrangements of Ionic Charge in Zeolite Frameworks Conferred by Specific Al Distributions Preferentially Stabilize Alkanol Dehydration Transition States",
+      "authors": "Alexander J. Hoffman, Jason S. Bates, John R. Di Iorio, Steven V. Nystrom, Claire T. Nimlos, Rajamani Gounder*, David Hibbitts*",
+      "publication date": "2020-07-13",
+      "issue": 42,
+      "volume": 59,
+      "fpage": 18686,
+      "lpage": 18694,
+      "journal": "Angew. Chem. Int. Ed.",
+      "doi": "10.1002/anie.202007790"
+    },
+    "hmf-ether": {
+      "id": 5,
+      "title": "Highly Selective Cross-Etherification of 5-Hydroxymethylfurfural with Ethanol",
+      "authors": "Meredith C. Allen^, Alexander J. Hoffman^, Tsung-wei Liu, Matthew S. Webber, David Hibbitts*, Thomas J. Schwartz*",
+      "publication date": "2020-05-11",
+      "issue": 12,
+      "volume": 10,
+      "fpage": 6771,
+      "lpage": 6785,
+      "journal": "ACS Catal.",
+      "doi": "10.1021/acscatal.0c01328"
+    },
+    "meoh-inhib": {
+      "id": 4,
+      "title": "Mechanistic Origins of the High-Pressure Inhibition of Methanol Dehydration Rates in Small-Pore Acidic Zeolites",
+      "authors": "John Di Iorio, A. Hoffman, C. Nimlos, S. Nystrom, D. Hibbitts*, and R. Gounder*",
+      "publication date": "2019-12",
+      "issue": null,
+      "volume": 380,
+      "fpage": 161,
+      "lpage": 177,
+      "journal": "J. Catal.",
+      "doi": "10.1016/j.jcat.2019.10.012"
+    },
+    "arene-methylation": {
+      "id": 3,
+      "title": "Mechanism and Kinetics of Methylating C6-C12 Methylbenzenes with Methanol and Dimethyl Ether in H-MFI Zeolites",
+      "authors": "Mykela DeLuca, Pavlo Kravchenko, Alexander Hoffman, and David Hibbitts*",
+      "publication date": "2019-05-23",
+      "issue": 7,
+      "volume": 9,
+      "fpage": 6444,
+      "lpage": 6460,
+      "journal": "ACS Catal.",
+      "doi": "10.1021/acscatal.9b00650"
+    },
+    "mfi-restucturing": {
+      "id": 2,
+      "title": "Restructuring of MFI Framework Zeolite Models and Their Associated Artifacts in Density Functional Theory Calculations",
+      "authors": "Alexander Hoffman, Mykela DeLuca, and David Hibbitts*",
+      "publication date": "2019-02-15",
+      "issue": 11,
+      "volume": 123,
+      "fpage": 6572,
+      "lpage": 6585,
+      "journal": "J. Phys. Chem. C",
+      "doi": "10.1021/acs.jpcc.8b12230"
+    },
+    "cha-pairs-dpe": {
+      "id": 1,
+      "title": "Tuning Brønsted Acid Strength by Altering Site Proximity in CHA Framework Zeolites",
+      "authors": "Steven Nystrom^, Alexander Hoffman^, and David Hibbitts*",
+      "publication date": "2018-07-12",
+      "issue": 9,
+      "volume": 8,
+      "fpage": 7842,
+      "lpage": 7860,
+      "journal": "ACS Catal.",
+      "doi": "10.1021/acscatal.8b02049"
+    }
+  },
+  "book chapters": {},
+  "patents": {}
+}

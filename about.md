@@ -3,27 +3,6 @@ layout: page
 title: About
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
+My name is Alexander Hoffman, and I study heterogeneous catalysis. I grew up in Northern Virginia, near DC. I attended the College of William and Mary, from which I earned a B.S. in Chemistry in 2015. After graduating, I worked for a year at the U.S. EPA in Fort Meade, MD as an analytical chemist. I decided to go to graduate school to pursue a career in chemical engineering, and applied to M.S. programs, eventually settling in Gainesville, FL to attend the University of Florida. I enjoyed my time there so much, I decided to stay and pursue a Ph.D. under the guidance of Prof. David Hibbitts, which I completed in 2022. During my Ph.D., I used density functional theory (DFT) calculations to study reaction mechanisms in zeolites, zeolite synthesis, and Rh catalysts for NO<sub>x</sub> reduction. After finishing my Ph.D., I joined Prof. Rafael G&oacute;mez-Bombarelli's group at the Massachusetts Institute of Technology as a postdoctoral associate. At MIT, I'm conducting additional studies of zeolite synthesis using high-throughput virtual screening approaches and machine learning.
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
-
-There are currently two themes built on Poole:
-
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
-
-Learn more and contribute on [GitHub](https://github.com/poole).
-
-## Setup
-
-Some fun facts about the setup of this project include:
-
-* Built for [Jekyll](https://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Atom](https://atom.io)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
-
-Thanks for reading!
+In my spare time, I like to read, play tennis, and swim.

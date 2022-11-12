@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+ <title>Alexander Hoffman Research</title>
+ <link href="http://localhost:4000//atom.xml" rel="self"/>
+ <link href="http://localhost:4000//"/>
+ <updated>2022-11-12T18:27:04-05:00</updated>
+ <id>http://localhost:4000</id>
+ <author>
+   <name>Alexander Hoffman</name>
+   <email></email>
+ </author>
+
+ 
+ <entry>
+   <title>Welcome!</title>
+   <link href="http://localhost:4000/2022/11/12/ajh_home/"/>
+   <updated>2022-11-12T00:00:00-05:00</updated>
+   <id>http://localhost:4000//2022/11/12/ajh_home</id>
+   <content type="html">&lt;p&gt;My name is Alexander Hoffman and welcome to my personal website! Here, you can read &lt;a href=&quot;about&quot;&gt;about me&lt;/a&gt; or you can see a &lt;a href=&quot;pubs&quot;&gt;list of my publications&lt;/a&gt;. Please also feel free to &lt;a href=&quot;contact&quot;&gt;contact me&lt;/a&gt; by email or &lt;a href=&quot;www.twitter.com/ajhoffman1229&quot;&gt;follow me on twitter&lt;/a&gt;, where I occasionally post things about my work.&lt;/p&gt;
+
+&lt;p&gt;I’m attending this year’s AIChE conference, where I’ll be giving three talks and a presenting a poster at the faculty candidate session. Here are the details:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;”” in the faculty candidate poster session—Poster XYZ, 1:00 to 3:00 PM Sunday, 13 Nov 2022&lt;/li&gt;
+  &lt;li&gt;”” in Heterogeneous Catalysis II—1:00 to 3:00 PM Monday, 14 Nov 2022&lt;/li&gt;
+  &lt;li&gt;”” in Heterogeneous Catalysis II—1:00 to 3:00 PM Monday, 14 Nov 2022&lt;/li&gt;
+  &lt;li&gt;”” in Heterogeneous Catalysis II—1:00 to 3:00 PM Tuesday, 14 Nov 2022&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;I hope to see you there!&lt;/p&gt;
+</content>
+ </entry>
+ 
+
+</feed>
