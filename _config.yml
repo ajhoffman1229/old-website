@@ -3,7 +3,7 @@ title:               Alexander Hoffman Research
 tagline:             'Computational heterogeneous catalysis and materials engineering'
 description:         ""
 url:                 http://ajhoffman1229.github.io
-baseurl:             ''
+baseurl:             '/public'
 paginate:            5
 permalink:           pretty
 
