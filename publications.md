@@ -3,7 +3,7 @@ layout: page
 title: Publications
 ---
 
-You can also see my citations on [Google Scholar](https://scholar.google.com/citations?user=iqy6EXsAAAAJ&hl=en). If you would like a copy of any of my articles, please [email me](contact)
+You can also see my citations on [Google Scholar](https://scholar.google.com/citations?user=iqy6EXsAAAAJ&hl=en). If you would like a copy of any of my articles, please [email me](contact).
 
 <sup>&dagger;</sup>These authors contributed equally
 
