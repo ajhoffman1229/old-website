@@ -3,7 +3,7 @@ layout: page
 title: About
 ---
 
-![Picture of man with brown hair in a suit and tie](https://pbs.twimg.com/profile_images/1101462056916660224/xJWcK8wj_400x400.png)
+<img src="../professional_headshot_small.jpg" alt="Man with brown hair in a suit" width=456 height=512>
 
 My name is Alexander Hoffman, and I study heterogeneous catalysis. I grew up in Northern Virginia, near DC. I attended the College of William and Mary, from which I earned a B.S. in Chemistry in 2015. After graduating, I worked for a year at the U.S. Environmental Protection Agency in Fort Meade, MD as an analytical chemist. I decided to go to graduate school to pursue a career in chemical engineering, and applied to M.S. programs, eventually settling in Gainesville, FL to attend the University of Florida. I enjoyed my time there so much, I decided to stay and pursue a Ph.D. under the guidance of Prof. David Hibbitts, which I completed in 2022. During my Ph.D., I used density functional theory (DFT) calculations to study reaction mechanisms in zeolites, zeolite synthesis, and Rh catalysts for NO<sub>x</sub> reduction. After finishing my Ph.D., I joined Prof. Rafael G&oacute;mez-Bombarelli's group at the Massachusetts Institute of Technology as a postdoctoral associate. At MIT, I'm conducting additional studies of zeolite synthesis using high-throughput virtual screening approaches and machine learning.
 
