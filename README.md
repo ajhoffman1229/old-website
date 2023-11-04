@@ -9,4 +9,6 @@ My name is Alex Hoffman. Welcome to my personal website! I'm a chemical engineer
 3. "Mapping Interactions between Cationic Structure-Directing Agents and Framework Anions in Zeolites Using Computational Tools" in Microporous and Mesoporous Materials III: Structure&mdash;1:42 to 2:00 PM Monday, 14 Nov 2022 in N-128A
 4. "Characterizing Rh Single-Atom Catalysts on γ-Al<sub>2</sub>O<sub>3</sub> Using Density Functional Theory and CO Probe Molecule IR Spectroscopy" in Catalyst Design, Synthesis, and Characterization VI: Structure/activity relationships II&mdash;5:00 to 5:18 PM Tuesday, 14 Nov 2022 in N-127C
 
-I hope to see you there!-->
+I hope to see you there!
+
+Update (2023-11-04): this repository will be archived because I'm redesigning my website using a new template.-->
